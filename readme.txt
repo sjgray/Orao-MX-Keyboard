@@ -1,0 +1,38 @@
+Orao 2007 MX Keyboard
+=====================
+
+NOTE: This is the initial design. Boards have been ordered but
+      have not been built or tested. It is best to wait until
+      the design is verified before making your own boards!
+      Use at own risk!
+
+This is a mechanical keyboard for the Orao 2007 computer.
+It is based on the original keyboard but is slightly modified.
+
+The changes are:
+
+- Larger SHIFT keys.
+- Larger ENTER key.
+- Relocated cursor/arrow keys with Inverted-T configuration.
+- Relocated and re-arranged PF keys.
+- 6.25U SPACEBAR
+
+
+MX Switches
+-----------
+
+This design takes standard MX 3=pin or 5-pin switches.
+
+
+Keycaps
+-------
+
+As this layout is unique I suggest you get blank DSA or XDA keycaps
+and use sticker or waterslide sheets to label the keys.
+I am planning to create a sheet and add it to the repository in the future.
+
+
+Connection
+----------
+
+You will need a 16-pin ribbon cable to connect to the computer pcb.
