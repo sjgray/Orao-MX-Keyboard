@@ -15,7 +15,7 @@ The changes are:
 - Larger ENTER key.
 - Relocated cursor/arrow keys with Inverted-T configuration.
 - Relocated and re-arranged PF keys.
-- 6.25U SPACEBAR
+- 6.25U SPACEBAR, 1.5U ENTER and SHIFT keys.
 
 
 MX Switches
@@ -36,3 +36,10 @@ Connection
 ----------
 
 You will need a 16-pin ribbon cable to connect to the computer pcb.
+
+
+Revisions
+---------
+
+Rev 1 - 2026-04-10 - Prototype. Needs fixes for function keys and SPACEBAR.
+Rev 2 - 2026-04-30 - Fix for Function key routing, SPACEBAR position, board size reduced. Add IDC and Dupont cable options.
