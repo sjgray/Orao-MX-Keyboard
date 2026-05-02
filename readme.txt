@@ -1,4 +1,4 @@
-Orao 2007 MX Keyboard
+Orao 2007 MX Keyboard - By Walter Miraglia and Steve Gray
 =====================
 
 NOTE: This is the initial design. Boards have been ordered but
@@ -43,3 +43,5 @@ Revisions
 
 Rev 1 - 2026-04-10 - Prototype. Needs fixes for function keys and SPACEBAR.
 Rev 2 - 2026-04-30 - Fix for Function key routing, SPACEBAR position, board size reduced. Add IDC and Dupont cable options.
+Rev 2b- 2026-05-02 - Revert to original size pcb
+
