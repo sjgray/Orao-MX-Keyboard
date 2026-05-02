@@ -35,7 +35,8 @@ I am planning to create a sheet and add it to the repository in the future.
 Connection
 ----------
 
-You will need a 16-pin ribbon cable to connect to the computer pcb.
+For Rev 1 you will need a 16-pin ribbon cable to connect to the computer pcb.
+Rev 2 and 2b can also use an IDC or straight Dupont connector.
 
 
 Revisions
